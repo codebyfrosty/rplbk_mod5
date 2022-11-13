@@ -1,3 +1,15 @@
+# Anggota Kelompok 4
+
+Haickal Fattih Pratama - 21120119140131
+
+Hilmi Ahmad Dhiya`ulhaq - 21120119130048
+
+Lukman Ernandi - 21120119130049
+
+Peggy Raihannisa Zakiyyahannas - 21120119130111
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
