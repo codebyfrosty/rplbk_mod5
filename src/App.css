@@ -1,0 +1,16 @@
+.App {
+  width: 100%;
+  padding: 20px;
+}
+
+.posts{
+  padding: 100px;
+
+}
+
+.list-title-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
